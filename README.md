@@ -9,16 +9,16 @@
 </p>
 <p align="center">
 <a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/Nichuvdr/BOT-V.1"><img title="Recode" src="https://img.shields.io/badge/Recode-Nichuvdr-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Nichuvdr/BOT-V.1"><img title="Recode" src="https://img.shields.io/badge/Recode-JOBIN-SER-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 
 <p align="center">
-  <a href="https://github.com/Nichuvdr-BOT-V.1-Md#requirements">Requirements</a> •
-  <a href="https://github.com/Nichuvdr-BOT-V.1-Md#instalasi">Installation</a> •
-  <a href="https://github.com/Nichuvdr-BOT-V.1-Md#thanks-to">Thanks to</a> •
-  <a href="https://github.com/Nichuvdr-BOT-V.1-Md#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/Nichuvdr-BOT-V.1Md#donate">Donate</a>
+  <a href="https://github.com/JOBIN-SER-BOT-V.1-Md#requirements">Requirements</a> •
+  <a href="https://github.com/JOBIN-SER-BOT-V.1-Md#instalasi">Installation</a> •
+  <a href="https://github.com/JOBIN-SER-BOT-V.1-Md#thanks-to">Thanks to</a> •
+  <a href="https://github.com/JOBIN-SER-BOT-V.1-Md#Official-Group"> Official Group Bot</a> •
+  <a href="https://github.com/JOBIN-SER-BOT-V.1Md#donate">Donate</a>
 </p>
 </div>
 
@@ -67,4 +67,4 @@ HOW TO DEPLOY <a href="https://youtube.com/c/lltrker">
 
 
 # Official Group
-- [Join Oficial Whatsapp Group](https://chat.whatsapp.com/CZ5k2wN4HslD62oiLth8TB)
+- [Join Oficial Whatsapp Group](https://chat.whatsapp.com/D9A4Q9dhtQ03pTfenn2Jl5)
