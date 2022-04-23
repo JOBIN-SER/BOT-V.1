@@ -26,7 +26,7 @@
 ---
 
 ## Information
-> 🟣BOT-V.1 is a multi device whatsapp bot🔵 , created by Nichu vdr
+> 🟣BOT-V.1 is a multi device whatsapp bot🔵 , created by ᴊᴏʙɪɴ-ꜱᴇʀ
 > 24/7 hour supporting powerfull heroku bot🟢
 
 # Requirements
