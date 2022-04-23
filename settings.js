@@ -29,7 +29,7 @@ global.ownernomer = "917593010965" // nomor wa kalian
 global.ownernomerr = "+917736240975" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "https://i.imgur.com/SrEtYu0.jpeg" // foto donasi di folder image
-global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
+global.background_welcome="https://i.imgur.com/6w8uQjU.jpeg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["917593010965"] //ganti agar fitur owner bisa di gunakan
 global.packname = '© 𝙱𝙾𝚃 𝚅.1' //sticker wm ubah
 global.author = 'ʙʏ ᴊᴏʙɪɴ-ꜱᴇʀ' //sticker wm ganti nama kalian
@@ -50,7 +50,7 @@ global.mess = {
     private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
 	bot: 'Fitur Khusus Pengguna Nomor Bot',
     errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
-    wait: '⏳ Sedang Di Proses',
+    wait: '♻️Starting Proses,
 	lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
 	example1: 'Selamat Datang @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
