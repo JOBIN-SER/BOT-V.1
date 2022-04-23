@@ -846,22 +846,22 @@ exports.leave = () =>{
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://github.com/Nichuvdr/BOT-V.1
-Recode : https://youtube.com/c/lltrcker
+Base : https://github.com/JOBIN-SER/BOT-V.1
+Recode : https://youtube.com/channel/UCuJFcmDliVZqbzJVtjflvdw
 `
 }
 exports.tos = (ownernomer) => {
     return `
-*-------「 DONATE 」 -------*
+*-------「 JOBIN-SER 」 -------*
 
-Hai User ☺️ 
-Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
+ 
 
-Berapapun donasi kalian akan sangat berarti 👍
 
-Thanks!
 
-Contact person Owner:
+
+
+
+Contact person Owner:917593010965
 wa.me/${ownernomer}
 
     `
@@ -935,7 +935,7 @@ exports.group = (prefix) =>{
 ├ ${prefix}leave
 ├ ${prefix}add [62***]
 ├ ${prefix}kick @tag
-├ ${prefix}leave
+├ ${prefix}left
 ├ ${prefix}linkgc
 ├ ${prefix}take packname|author
 ├ ${prefix}group [open/close]
@@ -984,10 +984,10 @@ exports.converter = (prefix) =>{
 ├ ${prefix}tomp3 [video]
 ├ ${prefix}tovn [video]
 ├ ${prefix}stiker [reply image]
-├ ${prefix}tourl [image/video]
-├ ${prefix}togif [sticker]
-├ ${prefix}tomp4 [sticker]
-╰❒${prefix}toimg [reply sticker]
+├ ${prefix}url [image/video]
+├ ${prefix}gif [sticker]
+├ ${prefix}mp4 [sticker]
+╰❒${prefix}img [reply sticker]
 `}
 
 exports.effect = (prefix) =>{
