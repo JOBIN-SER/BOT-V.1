@@ -46,7 +46,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/Nichuvdr/BOT-V.1
+git clone https://github.com/JOBIN-SER/BOT-V.1
 cd BOT-V.1
 pkg install yarn
 yarn install
