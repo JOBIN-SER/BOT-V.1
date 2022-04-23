@@ -31,7 +31,7 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "https://i.imgur.com/SrEtYu0.jpeg" // foto donasi di folder image
 global.background_welcome="https://i.imgur.com/6w8uQjU.jpeg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["917593010965"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© 𝙱𝙾𝚃 𝚅.1' //sticker wm ubah
+global.packname = '©ᴊᴏʙɪɴ-ꜱᴇʀ' //sticker wm ubah
 global.author = 'ʙʏ ᴊᴏʙɪɴ-ꜱᴇʀ' //sticker wm ganti nama kalian
 global.sessionName = '𝐿𝑖𝑣𝑒 𝑛𝑜𝑤'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -39,7 +39,7 @@ global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutpu
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['👁️','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     sukses: '🤗Done, Oke Desu~',
@@ -50,7 +50,7 @@ global.mess = {
     private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
 	bot: 'Fitur Khusus Pengguna Nomor Bot',
     errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
-    wait: '♻️Starting Proses,
+    wait: '♻️Starting process,
 	lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
 	example1: 'Selamat Datang @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
