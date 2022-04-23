@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/Nichuvdr/BOT-V.1/blob/v9/https:/i.imgur.com/IQ0i24R.jpg" alt="BOT V.1" width="200"/>
+<img src="https://i.imgur.com/SrEtYu0.jpg" alt="BOT V.1" width="200"/>
 
 
 </p>
