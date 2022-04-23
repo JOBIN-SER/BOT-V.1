@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://i.imgur.com/SrEtYu0.jpg" alt="BOT V.1" width="200"/>
+<img src="https://i.imgur.com/IQ0i24R.jpeg" alt="BOT V.1" width="200"/>
 
 
 </p>
