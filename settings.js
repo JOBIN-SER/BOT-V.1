@@ -18,7 +18,7 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "𝙱𝙾𝚃 𝚅.99" //namabot kalian
+global.botname = "𝐈𝐋𝐋𝐔𝐌𝐈𝐍𝐀𝐓𝐈" //namabot kalian
 global.ownername= "𝐉𝐎𝐁𝐈𝐍-𝐒𝐄𝐑" //nama kalian
 global.myweb ="https://chat.whatsapp.com/D9A4Q9dhtQ03pTfenn2Jl5" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCuJFcmDliVZqbzJVtjflvdw" //bebas asal jan hapus
