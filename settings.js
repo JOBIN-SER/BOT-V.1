@@ -20,8 +20,8 @@ global.available = false //status online (online)
 // Other
 global.botname = "𝙱𝙾𝚃 𝚅.99" //namabot kalian
 global.ownername= "𝐉𝐎𝐁𝐈𝐍-𝐒𝐄𝐑" //nama kalian
-global.myweb ="https://chat.whatsapp.com/CZ5k2wN4HslD62oiLth8TB" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/lltrker" //bebas asal jan hapus
+global.myweb ="https://chat.whatsapp.com/D9A4Q9dhtQ03pTfenn2Jl5" //bebas asal jan hapus
+global.youtube = "https://youtube.com/channel/UCuJFcmDliVZqbzJVtjflvdw" //bebas asal jan hapus
 global.github = "https://Nichuvdr.github.io/" //bebas
 global.email = "pnichu786@gmail.com" //bebas
 global.region = "India" //bebas
